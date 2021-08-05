@@ -58,7 +58,9 @@ const heightPrithvi = 5.3;
 const heightKhali = 7.1;
 console.log(heightKhali > heightPrithvi);
 
+//Operator Precednecy 
+//it follows BODMAS rules for bracket then division and multiplication and addistion and subtraction
 
-
-
+const evalueation = 3 + 4 * (4 * 3);
+console.log(evalueation);
 
