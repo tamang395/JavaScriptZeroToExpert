@@ -14,4 +14,13 @@ let firstName = "Prithvinarayan";//string is the sequence of character
 let isAbleToWalk = true;//it contains only true or false
 let dogName;//it will undefined without initialized
 
+//Understanding let const and var keyword
+
+let myJob = "Computer Operator";//let is used to declare variable and it can be mutate lateste version (recommended)
+myJob = "Software Developer"
+const birthYear = 1998;//const is never be reassigned in one application
+// birthYear =1999;   it will throw error
+var myAge = 23;//var is same as let but it having some older feature of js
+myAge = 24;
+
 
